@@ -39,7 +39,7 @@ public class MyPlayerAI extends ReversiAI {
 	private int depth ;
 
 	//////////////////////////////////////////////////////////instructor
-	public MyPlayerAI(){depth = 9;}
+	public MyPlayerAI(){depth = 7;}
 
 	//////////////////////////////////////////////////////////getName
 	@Override
@@ -101,7 +101,7 @@ public class MyPlayerAI extends ReversiAI {
 			for (Point pathPoint : moves){
 				Board bCopy3 = new Board(b);
 				bCopy3.move((int) pathPoint.getX() , (int) pathPoint.getY());
-				double moveScore = minValue(bCopy3, depth-1, Integer.MIN_VALUE, Integer.MAX_VALUE); //hold the move's maxValue score
+				double moveScore = maxValue(bCopy3, depth, Integer.MIN_VALUE, Integer.MAX_VALUE); //hold the move's maxValue score
 				if (moveScore == bestScore){ //find the move with value of bestScore
 					bestMove = pathPoint;
 				}
@@ -134,7 +134,7 @@ public double maxValue(Board prev, int depth, double a, double b){
 			}
 		}
 
-/*
+
 		for (Board move : moves) {
 			if (minValue(move, depth - 1, a, b) > bestScore) { //get the maximum value
 				bestScore = minValue(move, depth - 1, a, b);
@@ -143,21 +143,6 @@ public double maxValue(Board prev, int depth, double a, double b){
 				bestScore = b;
 			}
 			a = Math.max(a, bestScore);
-		}
-		return bestScore;
-	}
-	*/
-		double temp;
-		for (Board move : moves) {
-			if (b > a) { //get the maximum value
-				temp = minValue(move, depth - 1, a, b);
-				if (temp > bestScore) bestScore = temp;
-			}
-			else break;
-			if (bestScore > a) {
-				a = bestScore;
-			}
-
 		}
 		return bestScore;
 	}
@@ -188,7 +173,7 @@ public double minValue(Board prev, int depth, double a, double b){
 			}
 		}
 
-/*
+
 		for (Board move: moves){
 			if (maxValue(move, depth - 1, a, b) < bestScore){ //get the minimum value
 				bestScore = maxValue(move, depth - 1, a, b);
@@ -197,18 +182,6 @@ public double minValue(Board prev, int depth, double a, double b){
 				bestScore = a;
 			}
 			b = Math.min(b, bestScore);
-		}
-		*/
-		double temp;
-		for (Board move: moves){
-			if (a < b){ //get the minimum value
-				temp = maxValue(move, depth - 1, a, b);
-				if (temp < bestScore) bestScore = temp;
-			}
-			else break;
-			if (bestScore < b){
-				b = bestScore;
-			}
 		}
 		return bestScore;
 	}
