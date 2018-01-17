@@ -16,9 +16,7 @@ public class AIControllerSinglePlay extends Controller {
 	private ReversiAI aiWhite, aiBlack;
 	public int waitTime = DEFAULT_WAIT_TIME;
 
-	public static void main(String args[]) {
-		new TestFrameAIVSAI(); 
-	}
+	public static void main(String args[]) {new TestFrameAIVSAI();}
 
 	public AIControllerSinglePlay(Listener l, ReversiAI aiWhite,
 			ReversiAI aiBlack) {
@@ -117,6 +115,7 @@ public class AIControllerSinglePlay extends Controller {
 				waitForInterrupt();
 				update();
 				playerLog("Next player's turn.");
+
 			}
 		}
 	}

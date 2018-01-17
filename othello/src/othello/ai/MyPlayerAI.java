@@ -39,7 +39,7 @@ public class MyPlayerAI extends ReversiAI {
 	private int depth ;
 
 	//////////////////////////////////////////////////////////instructor
-	public MyPlayerAI(){depth = 9;}
+	public MyPlayerAI(){depth = 8;}
 
 	//////////////////////////////////////////////////////////getName
 	@Override
@@ -214,3 +214,15 @@ public double minValue(Board prev, int depth, double a, double b){
 	}
 	}
 }
+
+////////////////////////////////////////////////////////////////eval
+/*
+public double eval(Board b){
+
+	String binaryActiveBoard = "01111110" +"10000001"+"10000001"+"10000001"+"10000001"+"10000001"+"10000001" + "01111110";
+
+	long cornersMask = Long.parseLong(binaryActiveBoard, 2);
+	long cornerPieces = b.getActive()
+
+
+}*/

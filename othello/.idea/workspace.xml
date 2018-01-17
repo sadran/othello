@@ -22,7 +22,7 @@
       <file leaf-file-name="OnePlayerController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/othello/controller/OnePlayerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
+            <state relative-caret-position="0">
               <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
@@ -32,8 +32,8 @@
       <file leaf-file-name="AIControllerSinglePlay.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/othello/controller/AIControllerSinglePlay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="358">
+              <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -62,129 +62,12 @@
       <file leaf-file-name="MyPlayerAI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/othello/ai/MyPlayerAI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="84">
               <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
               <folding>
                 <element signature="e#2740#2747#0" expanded="true" />
                 <element signature="e#3840#3847#0" expanded="true" />
                 <element signature="e#5096#5103#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwoPlayerController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/othello/controller/TwoPlayerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AtkWrapper.class" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar!/org/GNOME/Accessibility/AtkWrapper.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4662">
-              <caret line="363" column="0" lean-forward="false" selection-start-line="363" selection-start-column="0" selection-end-line="363" selection-end-column="0" />
-              <folding>
-                <marker date="1481458103000" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1481458103000" expanded="false" signature="147:1031" ph="..." />
-                <marker date="1481458103000" expanded="true" signature="1165:4062" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="1221:1470" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="1528:1779" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="1838:2214" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="2272:2520" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="2576:2825" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="2878:3189" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="3242:3554" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="3608:3920" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="3978:3989" ph="{}" />
-                <marker date="1481458103000" expanded="true" signature="4045:4056" ph="{}" />
-                <marker date="1481458103000" expanded="true" signature="4133:5370" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="4193:4441" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="4499:4747" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="4805:5054" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="5113:5364" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="5439:7128" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="5536:7122" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="7437:7620" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="7670:10085" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="10165:10394" ph="{...}" />
-                <marker date="1481458103000" expanded="false" signature="11681:11692" ph=" { " />
-                <marker date="1481458103000" expanded="false" signature="11717:11723" ph=" }" />
-                <marker date="1481458103000" expanded="true" signature="11749:13124" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="11928:13106" ph="{...}" />
-                <marker date="1481458103000" expanded="true" signature="12043:13092" ph="{...}" />
-                <marker date="1481458103000" expanded="false" signature="13168:13179" ph=" { " />
-                <marker date="1481458103000" expanded="false" signature="13196:13202" ph=" }" />
-                <marker date="1481458103000" expanded="true" signature="13215:22598" ph="{...}" />
-                <marker date="1481458103000" expanded="false" signature="14122:14219" ph="propertyChange(var1) → {" />
-                <marker date="1481458103000" expanded="false" signature="22576:22591" ph="}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GreedyAI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/othello/ai/GreedyAI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="42" column="9" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReversiAI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/othello/ai/ReversiAI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Board.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/othello/model/Board.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="method#Board#0;class#Board#0" expanded="false" />
-                <element signature="method#equals#0;class#Board#0" expanded="false" />
-                <element signature="method#setSquare#0;class#Board#0" expanded="false" />
-                <element signature="method#flipSquare#0;class#Board#0" expanded="false" />
-                <element signature="method#getSquare#0;class#Board#0" expanded="false" />
-                <element signature="method#isEmptySquare#0;class#Board#0" expanded="false" />
-                <element signature="e#3972#4019#0" expanded="false" />
-                <element signature="method#getFrontierCount#0;class#Board#0" expanded="false" />
-                <element signature="method#getMoveCount#0;class#Board#0" expanded="false" />
-                <element signature="e#5010#5066#0" expanded="false" />
-                <element signature="method#getWinning#0;class#Board#0" expanded="false" />
-                <element signature="method#getState#0;class#Board#0" expanded="false" />
-                <element signature="method#move#0;class#Board#0" expanded="false" />
-                <element signature="method#getLastPlayerMove#0;class#Board#0" expanded="false" />
-                <element signature="method#turn#0;class#Board#0" expanded="false" />
-                <element signature="method#canMove#0;class#Board#0" expanded="false" />
-                <element signature="method#gameOver#0;class#Board#0" expanded="false" />
-                <element signature="method#updateCount#0;class#Board#0" expanded="false" />
-                <element signature="method#west#0;class#Board#0" expanded="false" />
-                <element signature="method#east#0;class#Board#0" expanded="false" />
-                <element signature="method#north#0;class#Board#0" expanded="false" />
-                <element signature="method#south#0;class#Board#0" expanded="false" />
-                <element signature="method#northwest#0;class#Board#0" expanded="false" />
-                <element signature="method#southeast#0;class#Board#0" expanded="false" />
-                <element signature="method#northeast#0;class#Board#0" expanded="false" />
-                <element signature="method#southwest#0;class#Board#0" expanded="false" />
-                <element signature="method#print#0;class#Board#0" expanded="false" />
-                <element signature="method#boardStats#0;class#Board#0" expanded="false" />
-                <element signature="method#getCoords#0;class#Board#0" expanded="false" />
-                <element signature="method#prompt#0;class#Board#0" expanded="false" />
-                <element signature="method#game#0;class#Board#0" expanded="false" />
-                <element signature="method#main#0;class#Board#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -203,6 +86,7 @@
       <find>state</find>
       <find>ga</find>
       <find>move</find>
+      <find>prin</find>
     </findStrings>
     <replaceStrings>
       <replace>b</replace>
@@ -221,6 +105,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/othello/view/TestFrameAIVSAI.java" />
         <option value="$PROJECT_DIR$/src/othello/controller/OnePlayerController.java" />
+        <option value="$PROJECT_DIR$/src/othello/controller/AIControllerSinglePlay.java" />
+        <option value="$PROJECT_DIR$/src/othello/model/Board.java" />
         <option value="$PROJECT_DIR$/src/othello/ai/MyPlayerAI.java" />
       </list>
     </option>
@@ -473,12 +359,12 @@
       <workItem from="1516135990035" duration="888000" />
       <workItem from="1516138113445" duration="1628000" />
       <workItem from="1516196230424" duration="2537000" />
-      <workItem from="1516205115864" duration="6304000" />
+      <workItem from="1516205115864" duration="9519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42052000" />
+    <option name="totallyTimeSpent" value="45267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-3" width="1366" height="771" extended-state="6" />
@@ -1259,7 +1145,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/othello/controller/OnePlayerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
+        <state relative-caret-position="0">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
@@ -1275,16 +1161,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/othello/controller/AIControllerSinglePlay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="358">
+          <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/othello/model/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="1904">
+          <caret line="610" column="0" lean-forward="false" selection-start-line="610" selection-start-column="0" selection-end-line="610" selection-end-column="0" />
           <folding>
             <element signature="method#Board#0;class#Board#0" expanded="false" />
             <element signature="method#equals#0;class#Board#0" expanded="false" />
@@ -1324,7 +1210,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/othello/ai/MyPlayerAI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="84">
           <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
           <folding>
             <element signature="e#2740#2747#0" expanded="true" />
