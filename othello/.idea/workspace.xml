@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/othello/controller/OnePlayerController.java" />
     <bookmark url="file://$PROJECT_DIR$/src/othello/controller/OnePlayerController.java" line="21" />
     <bookmark url="file://$PROJECT_DIR$/src/othello/view/ReversiGUI.java" />
-    <bookmark url="file://$PROJECT_DIR$/src/othello/ai/MyPlayerAI.java" line="127" />
+    <bookmark url="file://$PROJECT_DIR$/src/othello/ai/MyPlayerAI.java" line="126" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92d65a5a-fabf-4c97-9e6d-7751c4e0a18e" name="Default" comment="">
@@ -19,56 +19,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OnePlayerController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/othello/controller/OnePlayerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AIControllerSinglePlay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/othello/controller/AIControllerSinglePlay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestFrameAIVSAI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/othello/view/TestFrameAIVSAI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1181">
-              <caret line="122" column="43" lean-forward="true" selection-start-line="122" selection-start-column="43" selection-end-line="122" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReversiGUI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/othello/view/ReversiGUI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MyPlayerAI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/othello/ai/MyPlayerAI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-              <folding>
-                <element signature="e#2740#2747#0" expanded="true" />
-                <element signature="e#3840#3847#0" expanded="true" />
-                <element signature="e#5096#5103#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-966">
+              <caret line="89" column="22" lean-forward="false" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyPlayerAI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/othello/src/othello/ai/MyPlayerAI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="784">
+              <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -123,6 +89,7 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1366" />
     <option name="y" value="-3" />
     <option name="width" value="1366" />
     <option name="height" value="771" />
@@ -161,31 +128,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ai" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="othello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="othello" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="othello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="othello" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="othello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="othello" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -360,15 +309,19 @@
       <workItem from="1516138113445" duration="1628000" />
       <workItem from="1516196230424" duration="2537000" />
       <workItem from="1516205115864" duration="9519000" />
+      <workItem from="1516283612903" duration="132000" />
+      <workItem from="1516390480932" duration="900000" />
+      <workItem from="1516392472997" duration="1854000" />
+      <workItem from="1516402909436" duration="94000" />
+      <workItem from="1516434525012" duration="1839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45267000" />
+    <option name="totallyTimeSpent" value="50086000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-3" width="1366" height="771" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1366" y="-3" width="1368" height="786" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -379,11 +332,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17789166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17789166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -408,66 +361,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/othello/ai/MyPlayerAI.java</url>
-          <line>100</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/othello/view/ReversiGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1778">
-          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar!/org/GNOME/Accessibility/AtkWrapper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4662">
           <caret line="363" column="0" lean-forward="false" selection-start-line="363" selection-start-column="0" selection-end-line="363" selection-end-column="0" />
-          <folding>
-            <marker date="1481458103000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1481458103000" expanded="false" signature="147:1031" ph="..." />
-            <marker date="1481458103000" expanded="true" signature="1165:4062" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1221:1470" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1528:1779" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1838:2214" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2272:2520" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2576:2825" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2878:3189" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3242:3554" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3608:3920" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3978:3989" ph="{}" />
-            <marker date="1481458103000" expanded="true" signature="4045:4056" ph="{}" />
-            <marker date="1481458103000" expanded="true" signature="4133:5370" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4193:4441" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4499:4747" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4805:5054" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5113:5364" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5439:7128" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5536:7122" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="7437:7620" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="7670:10085" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="10165:10394" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="11681:11692" ph=" { " />
-            <marker date="1481458103000" expanded="false" signature="11717:11723" ph=" }" />
-            <marker date="1481458103000" expanded="true" signature="11749:13124" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="11928:13106" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="12043:13092" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="13168:13179" ph=" { " />
-            <marker date="1481458103000" expanded="false" signature="13196:13202" ph=" }" />
-            <marker date="1481458103000" expanded="true" signature="13215:22598" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="14122:14219" ph="propertyChange(var1) → {" />
-            <marker date="1481458103000" expanded="false" signature="22576:22591" ph="}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -475,7 +377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="42" column="9" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,40 +392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-          <folding>
-            <element signature="method#Board#0;class#Board#0" expanded="false" />
-            <element signature="method#equals#0;class#Board#0" expanded="false" />
-            <element signature="method#setSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#flipSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#getSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#isEmptySquare#0;class#Board#0" expanded="false" />
-            <element signature="e#3972#4019#0" expanded="false" />
-            <element signature="method#getFrontierCount#0;class#Board#0" expanded="false" />
-            <element signature="method#getMoveCount#0;class#Board#0" expanded="false" />
-            <element signature="e#5010#5066#0" expanded="false" />
-            <element signature="method#getWinning#0;class#Board#0" expanded="false" />
-            <element signature="method#getState#0;class#Board#0" expanded="false" />
-            <element signature="method#move#0;class#Board#0" expanded="false" />
-            <element signature="method#getLastPlayerMove#0;class#Board#0" expanded="false" />
-            <element signature="method#turn#0;class#Board#0" expanded="false" />
-            <element signature="method#canMove#0;class#Board#0" expanded="false" />
-            <element signature="method#gameOver#0;class#Board#0" expanded="false" />
-            <element signature="method#updateCount#0;class#Board#0" expanded="false" />
-            <element signature="method#west#0;class#Board#0" expanded="false" />
-            <element signature="method#east#0;class#Board#0" expanded="false" />
-            <element signature="method#north#0;class#Board#0" expanded="false" />
-            <element signature="method#south#0;class#Board#0" expanded="false" />
-            <element signature="method#northwest#0;class#Board#0" expanded="false" />
-            <element signature="method#southeast#0;class#Board#0" expanded="false" />
-            <element signature="method#northeast#0;class#Board#0" expanded="false" />
-            <element signature="method#southwest#0;class#Board#0" expanded="false" />
-            <element signature="method#print#0;class#Board#0" expanded="false" />
-            <element signature="method#boardStats#0;class#Board#0" expanded="false" />
-            <element signature="method#getCoords#0;class#Board#0" expanded="false" />
-            <element signature="method#prompt#0;class#Board#0" expanded="false" />
-            <element signature="method#game#0;class#Board#0" expanded="false" />
-            <element signature="method#main#0;class#Board#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -532,11 +399,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
-          <folding>
-            <element signature="e#2740#2747#0" expanded="true" />
-            <element signature="e#3840#3847#0" expanded="true" />
-            <element signature="e#5096#5103#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -552,7 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1778">
           <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -560,41 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4648">
           <caret line="362" column="46" lean-forward="false" selection-start-line="362" selection-start-column="46" selection-end-line="362" selection-end-column="46" />
-          <folding>
-            <marker date="1481458103000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1481458103000" expanded="false" signature="147:1031" ph="..." />
-            <marker date="1481458103000" expanded="true" signature="1165:4062" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1221:1470" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1528:1779" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1838:2214" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2272:2520" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2576:2825" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2878:3189" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3242:3554" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3608:3920" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3978:3989" ph="{}" />
-            <marker date="1481458103000" expanded="true" signature="4045:4056" ph="{}" />
-            <marker date="1481458103000" expanded="true" signature="4133:5370" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4193:4441" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4499:4747" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4805:5054" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5113:5364" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5439:7128" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5536:7122" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="7437:7620" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="7670:10085" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="10165:10394" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="11681:11692" ph=" { " />
-            <marker date="1481458103000" expanded="false" signature="11717:11723" ph=" }" />
-            <marker date="1481458103000" expanded="true" signature="11749:13124" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="11928:13106" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="12043:13092" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="13168:13179" ph=" { " />
-            <marker date="1481458103000" expanded="false" signature="13196:13202" ph=" }" />
-            <marker date="1481458103000" expanded="true" signature="13215:22598" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="14122:14219" ph="propertyChange(var1) → {" />
-            <marker date="1481458103000" expanded="false" signature="22576:22591" ph="}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -602,7 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="42" column="9" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,40 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-          <folding>
-            <element signature="method#Board#0;class#Board#0" expanded="false" />
-            <element signature="method#equals#0;class#Board#0" expanded="false" />
-            <element signature="method#setSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#flipSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#getSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#isEmptySquare#0;class#Board#0" expanded="false" />
-            <element signature="e#3972#4019#0" expanded="false" />
-            <element signature="method#getFrontierCount#0;class#Board#0" expanded="false" />
-            <element signature="method#getMoveCount#0;class#Board#0" expanded="false" />
-            <element signature="e#5010#5066#0" expanded="false" />
-            <element signature="method#getWinning#0;class#Board#0" expanded="false" />
-            <element signature="method#getState#0;class#Board#0" expanded="false" />
-            <element signature="method#move#0;class#Board#0" expanded="false" />
-            <element signature="method#getLastPlayerMove#0;class#Board#0" expanded="false" />
-            <element signature="method#turn#0;class#Board#0" expanded="false" />
-            <element signature="method#canMove#0;class#Board#0" expanded="false" />
-            <element signature="method#gameOver#0;class#Board#0" expanded="false" />
-            <element signature="method#updateCount#0;class#Board#0" expanded="false" />
-            <element signature="method#west#0;class#Board#0" expanded="false" />
-            <element signature="method#east#0;class#Board#0" expanded="false" />
-            <element signature="method#north#0;class#Board#0" expanded="false" />
-            <element signature="method#south#0;class#Board#0" expanded="false" />
-            <element signature="method#northwest#0;class#Board#0" expanded="false" />
-            <element signature="method#southeast#0;class#Board#0" expanded="false" />
-            <element signature="method#northeast#0;class#Board#0" expanded="false" />
-            <element signature="method#southwest#0;class#Board#0" expanded="false" />
-            <element signature="method#print#0;class#Board#0" expanded="false" />
-            <element signature="method#boardStats#0;class#Board#0" expanded="false" />
-            <element signature="method#getCoords#0;class#Board#0" expanded="false" />
-            <element signature="method#prompt#0;class#Board#0" expanded="false" />
-            <element signature="method#game#0;class#Board#0" expanded="false" />
-            <element signature="method#main#0;class#Board#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,11 +451,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1680">
           <caret line="125" column="52" lean-forward="true" selection-start-line="125" selection-start-column="52" selection-end-line="125" selection-end-column="52" />
-          <folding>
-            <element signature="e#2740#2747#0" expanded="true" />
-            <element signature="e#3840#3847#0" expanded="true" />
-            <element signature="e#5096#5103#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -679,7 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1778">
           <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,41 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4648">
           <caret line="362" column="46" lean-forward="true" selection-start-line="362" selection-start-column="46" selection-end-line="362" selection-end-column="46" />
-          <folding>
-            <marker date="1481458103000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1481458103000" expanded="false" signature="147:1031" ph="..." />
-            <marker date="1481458103000" expanded="true" signature="1165:4062" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1221:1470" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1528:1779" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1838:2214" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2272:2520" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2576:2825" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2878:3189" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3242:3554" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3608:3920" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3978:3989" ph="{}" />
-            <marker date="1481458103000" expanded="true" signature="4045:4056" ph="{}" />
-            <marker date="1481458103000" expanded="true" signature="4133:5370" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4193:4441" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4499:4747" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4805:5054" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5113:5364" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5439:7128" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5536:7122" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="7437:7620" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="7670:10085" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="10165:10394" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="11681:11692" ph=" { " />
-            <marker date="1481458103000" expanded="false" signature="11717:11723" ph=" }" />
-            <marker date="1481458103000" expanded="true" signature="11749:13124" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="11928:13106" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="12043:13092" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="13168:13179" ph=" { " />
-            <marker date="1481458103000" expanded="false" signature="13196:13202" ph=" }" />
-            <marker date="1481458103000" expanded="true" signature="13215:22598" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="14122:14219" ph="propertyChange(var1) → {" />
-            <marker date="1481458103000" expanded="false" signature="22576:22591" ph="}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,7 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="42" column="9" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,40 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-          <folding>
-            <element signature="method#Board#0;class#Board#0" expanded="false" />
-            <element signature="method#equals#0;class#Board#0" expanded="false" />
-            <element signature="method#setSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#flipSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#getSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#isEmptySquare#0;class#Board#0" expanded="false" />
-            <element signature="e#3972#4019#0" expanded="false" />
-            <element signature="method#getFrontierCount#0;class#Board#0" expanded="false" />
-            <element signature="method#getMoveCount#0;class#Board#0" expanded="false" />
-            <element signature="e#5010#5066#0" expanded="false" />
-            <element signature="method#getWinning#0;class#Board#0" expanded="false" />
-            <element signature="method#getState#0;class#Board#0" expanded="false" />
-            <element signature="method#move#0;class#Board#0" expanded="false" />
-            <element signature="method#getLastPlayerMove#0;class#Board#0" expanded="false" />
-            <element signature="method#turn#0;class#Board#0" expanded="false" />
-            <element signature="method#canMove#0;class#Board#0" expanded="false" />
-            <element signature="method#gameOver#0;class#Board#0" expanded="false" />
-            <element signature="method#updateCount#0;class#Board#0" expanded="false" />
-            <element signature="method#west#0;class#Board#0" expanded="false" />
-            <element signature="method#east#0;class#Board#0" expanded="false" />
-            <element signature="method#north#0;class#Board#0" expanded="false" />
-            <element signature="method#south#0;class#Board#0" expanded="false" />
-            <element signature="method#northwest#0;class#Board#0" expanded="false" />
-            <element signature="method#southeast#0;class#Board#0" expanded="false" />
-            <element signature="method#northeast#0;class#Board#0" expanded="false" />
-            <element signature="method#southwest#0;class#Board#0" expanded="false" />
-            <element signature="method#print#0;class#Board#0" expanded="false" />
-            <element signature="method#boardStats#0;class#Board#0" expanded="false" />
-            <element signature="method#getCoords#0;class#Board#0" expanded="false" />
-            <element signature="method#prompt#0;class#Board#0" expanded="false" />
-            <element signature="method#game#0;class#Board#0" expanded="false" />
-            <element signature="method#main#0;class#Board#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -786,11 +503,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1778">
           <caret line="130" column="29" lean-forward="false" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
-          <folding>
-            <element signature="e#2740#2747#0" expanded="true" />
-            <element signature="e#3840#3847#0" expanded="true" />
-            <element signature="e#5096#5103#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -814,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,40 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4354">
           <caret line="328" column="18" lean-forward="false" selection-start-line="328" selection-start-column="16" selection-end-line="328" selection-end-column="18" />
-          <folding>
-            <element signature="method#Board#0;class#Board#0" expanded="false" />
-            <element signature="method#equals#0;class#Board#0" expanded="false" />
-            <element signature="method#setSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#flipSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#getSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#isEmptySquare#0;class#Board#0" expanded="false" />
-            <element signature="e#3972#4019#0" expanded="false" />
-            <element signature="method#getFrontierCount#0;class#Board#0" expanded="false" />
-            <element signature="method#getMoveCount#0;class#Board#0" expanded="false" />
-            <element signature="e#5010#5066#0" expanded="false" />
-            <element signature="method#getWinning#0;class#Board#0" expanded="false" />
-            <element signature="method#getState#0;class#Board#0" expanded="false" />
-            <element signature="method#move#0;class#Board#0" expanded="false" />
-            <element signature="method#getLastPlayerMove#0;class#Board#0" expanded="false" />
-            <element signature="method#turn#0;class#Board#0" expanded="false" />
-            <element signature="method#canMove#0;class#Board#0" expanded="false" />
-            <element signature="method#gameOver#0;class#Board#0" expanded="false" />
-            <element signature="method#updateCount#0;class#Board#0" expanded="false" />
-            <element signature="method#west#0;class#Board#0" expanded="false" />
-            <element signature="method#east#0;class#Board#0" expanded="false" />
-            <element signature="method#north#0;class#Board#0" expanded="false" />
-            <element signature="method#south#0;class#Board#0" expanded="false" />
-            <element signature="method#northwest#0;class#Board#0" expanded="false" />
-            <element signature="method#southeast#0;class#Board#0" expanded="false" />
-            <element signature="method#northeast#0;class#Board#0" expanded="false" />
-            <element signature="method#southwest#0;class#Board#0" expanded="false" />
-            <element signature="method#print#0;class#Board#0" expanded="false" />
-            <element signature="method#boardStats#0;class#Board#0" expanded="false" />
-            <element signature="method#getCoords#0;class#Board#0" expanded="false" />
-            <element signature="method#prompt#0;class#Board#0" expanded="false" />
-            <element signature="method#game#0;class#Board#0" expanded="false" />
-            <element signature="method#main#0;class#Board#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -863,11 +541,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1148">
           <caret line="82" column="30" lean-forward="false" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
-          <folding>
-            <element signature="e#2740#2747#0" expanded="true" />
-            <element signature="e#3840#3847#0" expanded="true" />
-            <element signature="e#5096#5103#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -883,11 +557,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#2740#2747#0" expanded="true" />
-            <element signature="e#3840#3847#0" expanded="true" />
-            <element signature="e#5096#5103#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -895,40 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4018">
           <caret line="287" column="12" lean-forward="true" selection-start-line="287" selection-start-column="12" selection-end-line="287" selection-end-column="12" />
-          <folding>
-            <element signature="method#Board#0;class#Board#0" expanded="false" />
-            <element signature="method#equals#0;class#Board#0" expanded="false" />
-            <element signature="method#setSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#flipSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#getSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#isEmptySquare#0;class#Board#0" expanded="false" />
-            <element signature="e#3972#4019#0" expanded="false" />
-            <element signature="method#getFrontierCount#0;class#Board#0" expanded="false" />
-            <element signature="method#getMoveCount#0;class#Board#0" expanded="false" />
-            <element signature="e#5010#5066#0" expanded="false" />
-            <element signature="method#getWinning#0;class#Board#0" expanded="false" />
-            <element signature="method#getState#0;class#Board#0" expanded="false" />
-            <element signature="method#move#0;class#Board#0" expanded="false" />
-            <element signature="method#getLastPlayerMove#0;class#Board#0" expanded="false" />
-            <element signature="method#turn#0;class#Board#0" expanded="false" />
-            <element signature="method#canMove#0;class#Board#0" expanded="false" />
-            <element signature="method#gameOver#0;class#Board#0" expanded="false" />
-            <element signature="method#updateCount#0;class#Board#0" expanded="false" />
-            <element signature="method#west#0;class#Board#0" expanded="false" />
-            <element signature="method#east#0;class#Board#0" expanded="false" />
-            <element signature="method#north#0;class#Board#0" expanded="false" />
-            <element signature="method#south#0;class#Board#0" expanded="false" />
-            <element signature="method#northwest#0;class#Board#0" expanded="false" />
-            <element signature="method#southeast#0;class#Board#0" expanded="false" />
-            <element signature="method#northeast#0;class#Board#0" expanded="false" />
-            <element signature="method#southwest#0;class#Board#0" expanded="false" />
-            <element signature="method#print#0;class#Board#0" expanded="false" />
-            <element signature="method#boardStats#0;class#Board#0" expanded="false" />
-            <element signature="method#getCoords#0;class#Board#0" expanded="false" />
-            <element signature="method#prompt#0;class#Board#0" expanded="false" />
-            <element signature="method#game#0;class#Board#0" expanded="false" />
-            <element signature="method#main#0;class#Board#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -952,11 +588,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#2740#2747#0" expanded="true" />
-            <element signature="e#3840#3847#0" expanded="true" />
-            <element signature="e#5096#5103#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -964,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -972,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="23" column="59" lean-forward="false" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -980,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,40 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="812">
           <caret line="59" column="38" lean-forward="true" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
-          <folding>
-            <element signature="method#Board#0;class#Board#0" expanded="false" />
-            <element signature="method#equals#0;class#Board#0" expanded="false" />
-            <element signature="method#setSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#flipSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#getSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#isEmptySquare#0;class#Board#0" expanded="false" />
-            <element signature="e#3972#4019#0" expanded="false" />
-            <element signature="method#getFrontierCount#0;class#Board#0" expanded="false" />
-            <element signature="method#getMoveCount#0;class#Board#0" expanded="false" />
-            <element signature="e#5010#5066#0" expanded="false" />
-            <element signature="method#getWinning#0;class#Board#0" expanded="false" />
-            <element signature="method#getState#0;class#Board#0" expanded="false" />
-            <element signature="method#move#0;class#Board#0" expanded="false" />
-            <element signature="method#getLastPlayerMove#0;class#Board#0" expanded="false" />
-            <element signature="method#turn#0;class#Board#0" expanded="false" />
-            <element signature="method#canMove#0;class#Board#0" expanded="false" />
-            <element signature="method#gameOver#0;class#Board#0" expanded="false" />
-            <element signature="method#updateCount#0;class#Board#0" expanded="false" />
-            <element signature="method#west#0;class#Board#0" expanded="false" />
-            <element signature="method#east#0;class#Board#0" expanded="false" />
-            <element signature="method#north#0;class#Board#0" expanded="false" />
-            <element signature="method#south#0;class#Board#0" expanded="false" />
-            <element signature="method#northwest#0;class#Board#0" expanded="false" />
-            <element signature="method#southeast#0;class#Board#0" expanded="false" />
-            <element signature="method#northeast#0;class#Board#0" expanded="false" />
-            <element signature="method#southwest#0;class#Board#0" expanded="false" />
-            <element signature="method#print#0;class#Board#0" expanded="false" />
-            <element signature="method#boardStats#0;class#Board#0" expanded="false" />
-            <element signature="method#getCoords#0;class#Board#0" expanded="false" />
-            <element signature="method#prompt#0;class#Board#0" expanded="false" />
-            <element signature="method#game#0;class#Board#0" expanded="false" />
-            <element signature="method#main#0;class#Board#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1043,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1058,7 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1081,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="42" column="9" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1089,49 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4662">
           <caret line="363" column="0" lean-forward="false" selection-start-line="363" selection-start-column="0" selection-end-line="363" selection-end-column="0" />
-          <folding>
-            <marker date="1481458103000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1481458103000" expanded="false" signature="147:1031" ph="..." />
-            <marker date="1481458103000" expanded="true" signature="1165:4062" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1221:1470" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1528:1779" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="1838:2214" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2272:2520" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2576:2825" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="2878:3189" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3242:3554" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3608:3920" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="3978:3989" ph="{}" />
-            <marker date="1481458103000" expanded="true" signature="4045:4056" ph="{}" />
-            <marker date="1481458103000" expanded="true" signature="4133:5370" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4193:4441" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4499:4747" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="4805:5054" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5113:5364" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5439:7128" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="5536:7122" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="7437:7620" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="7670:10085" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="10165:10394" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="11681:11692" ph=" { " />
-            <marker date="1481458103000" expanded="false" signature="11717:11723" ph=" }" />
-            <marker date="1481458103000" expanded="true" signature="11749:13124" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="11928:13106" ph="{...}" />
-            <marker date="1481458103000" expanded="true" signature="12043:13092" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="13168:13179" ph=" { " />
-            <marker date="1481458103000" expanded="false" signature="13196:13202" ph=" }" />
-            <marker date="1481458103000" expanded="true" signature="13215:22598" ph="{...}" />
-            <marker date="1481458103000" expanded="false" signature="14122:14219" ph="propertyChange(var1) → {" />
-            <marker date="1481458103000" expanded="false" signature="22576:22591" ph="}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/othello/view/ReversiGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1139,7 +688,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/othello/model/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="610" column="0" lean-forward="false" selection-start-line="610" selection-start-column="0" selection-end-line="610" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/othello/view/ReversiGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/othello/view/TestFrameAIVSAI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="122" column="43" lean-forward="false" selection-start-line="122" selection-start-column="43" selection-end-line="122" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/othello/controller/AIControllerSinglePlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1151,72 +727,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/othello/view/TestFrameAIVSAI.java">
+    <entry file="file://$PROJECT_DIR$/othello/src/othello/ai/MyPlayerAI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1181">
-          <caret line="122" column="43" lean-forward="true" selection-start-line="122" selection-start-column="43" selection-end-line="122" selection-end-column="43" />
+        <state relative-caret-position="784">
+          <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/othello/controller/AIControllerSinglePlay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/othello/model/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="610" column="0" lean-forward="false" selection-start-line="610" selection-start-column="0" selection-end-line="610" selection-end-column="0" />
-          <folding>
-            <element signature="method#Board#0;class#Board#0" expanded="false" />
-            <element signature="method#equals#0;class#Board#0" expanded="false" />
-            <element signature="method#setSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#flipSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#getSquare#0;class#Board#0" expanded="false" />
-            <element signature="method#isEmptySquare#0;class#Board#0" expanded="false" />
-            <element signature="e#3972#4019#0" expanded="false" />
-            <element signature="method#getFrontierCount#0;class#Board#0" expanded="false" />
-            <element signature="method#getMoveCount#0;class#Board#0" expanded="false" />
-            <element signature="e#5010#5066#0" expanded="false" />
-            <element signature="method#getWinning#0;class#Board#0" expanded="false" />
-            <element signature="method#getState#0;class#Board#0" expanded="false" />
-            <element signature="method#move#0;class#Board#0" expanded="false" />
-            <element signature="method#getLastPlayerMove#0;class#Board#0" expanded="false" />
-            <element signature="method#turn#0;class#Board#0" expanded="false" />
-            <element signature="method#canMove#0;class#Board#0" expanded="false" />
-            <element signature="method#gameOver#0;class#Board#0" expanded="false" />
-            <element signature="method#updateCount#0;class#Board#0" expanded="false" />
-            <element signature="method#west#0;class#Board#0" expanded="false" />
-            <element signature="method#east#0;class#Board#0" expanded="false" />
-            <element signature="method#north#0;class#Board#0" expanded="false" />
-            <element signature="method#south#0;class#Board#0" expanded="false" />
-            <element signature="method#northwest#0;class#Board#0" expanded="false" />
-            <element signature="method#southeast#0;class#Board#0" expanded="false" />
-            <element signature="method#northeast#0;class#Board#0" expanded="false" />
-            <element signature="method#southwest#0;class#Board#0" expanded="false" />
-            <element signature="method#print#0;class#Board#0" expanded="false" />
-            <element signature="method#boardStats#0;class#Board#0" expanded="false" />
-            <element signature="method#getCoords#0;class#Board#0" expanded="false" />
-            <element signature="method#prompt#0;class#Board#0" expanded="false" />
-            <element signature="method#game#0;class#Board#0" expanded="false" />
-            <element signature="method#main#0;class#Board#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/othello/ai/MyPlayerAI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding>
-            <element signature="e#2740#2747#0" expanded="true" />
-            <element signature="e#3840#3847#0" expanded="true" />
-            <element signature="e#5096#5103#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-966">
+          <caret line="89" column="22" lean-forward="false" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -39,13 +39,12 @@ public class MyPlayerAI extends ReversiAI {
 	private int depth ;
 
 	//////////////////////////////////////////////////////////instructor
-	public MyPlayerAI(){depth = 8;}
-
+	public MyPlayerAI(){depth = 15;}
 	//////////////////////////////////////////////////////////getName
 	@Override
 	public String getName() {
 		//IMPORTANT: your student number here
-		return new String("9332283");
+		return new String("9332283 & 9329253");
 	}
 	//////////////////////////////////////////////////////////nextMove
 	@Override
